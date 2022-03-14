@@ -1,4 +1,4 @@
-This is a matlab data file (.mat) containing to respiration-related variables: 
+This is a matlab data file (.mat) containing three respiration-related variables: 
 AllPeaks, indicating peak amplitudes and 
 AllPeaLats, indicating peak latencies and
 AllVols, inidcating sniff inspiratory volumes
